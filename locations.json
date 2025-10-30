@@ -1,0 +1,537 @@
+{
+    "Andaman and Nicobar Islands": {
+      "cities": {
+        "Port Blair": {
+          "pincodes": ["744101", "744102", "744103"],
+          "offices": [{"address": "Sir Parcel Hub, Aberdeen Bazaar, Port Blair", "contact": "03192-232-001"}]
+        },
+        "Havelock Island": {
+          "pincodes": ["744211"],
+          "offices": [{"address": "Sir Parcel Point, Beach No. 3, Havelock", "contact": "03192-282-002"}]
+        },
+        "Diglipur": {
+          "pincodes": ["744202"],
+          "offices": [{"address": "Sir Parcel North, Main Market, Diglipur", "contact": "03192-272-003"}]
+        }
+      }
+    },
+    "Andhra Pradesh": {
+      "cities": {
+        "Visakhapatnam": {
+          "pincodes": ["530001", "530002", "530003"],
+          "offices": [{"address": "Sir Parcel Vizag, Dwaraka Nagar", "contact": "0891-2550001"}]
+        },
+        "Vijayawada": {
+          "pincodes": ["520001", "520002"],
+          "offices": [{"address": "Sir Parcel Bezawada, Governorpet", "contact": "0866-2570001"}]
+        },
+        "Tirupati": {
+          "pincodes": ["517501", "517502"],
+          "offices": [{"address": "Sir Parcel Temple Town, T.P. Area, Tirupati", "contact": "0877-2220001"}]
+        }
+      }
+    },
+    "Arunachal Pradesh": {
+      "cities": {
+        "Itanagar": {
+          "pincodes": ["791111"],
+          "offices": [{"address": "Sir Parcel Capital, Ganga Market, Itanagar", "contact": "0360-221-001"}]
+        },
+        "Tawang": {
+          "pincodes": ["790104"],
+          "offices": [{"address": "Sir Parcel Highlands, Old Market, Tawang", "contact": "03794-222-002"}]
+        },
+        "Ziro": {
+          "pincodes": ["791120"],
+          "offices": [{"address": "Sir Parcel Valley, Hapoli, Ziro", "contact": "03788-224-003"}]
+        }
+      }
+    },
+    "Assam": {
+      "cities": {
+        "Guwahati": {
+          "pincodes": ["781001", "781005", "781006"],
+          "offices": [{"address": "Sir Parcel Brahmaputra, Paltan Bazaar, Guwahati", "contact": "0361-254-001"}]
+        },
+        "Dibrugarh": {
+          "pincodes": ["786001"],
+          "offices": [{"address": "Sir Parcel Tea City, New Market, Dibrugarh", "contact": "0373-232-002"}]
+        },
+        "Silchar": {
+          "pincodes": ["788001"],
+          "offices": [{"address": "Sir Parcel Barak, Central Road, Silchar", "contact": "03842-230-003"}]
+        }
+      }
+    },
+    "Bihar": {
+      "cities": {
+        "Patna": {
+          "pincodes": ["800001", "800004"],
+          "offices": [{"address": "Sir Parcel Magadh, Fraser Road, Patna", "contact": "0612-222-001"}]
+        },
+        "Gaya": {
+          "pincodes": ["823001"],
+          "offices": [{"address": "Sir Parcel Bodhi, Station Road, Gaya", "contact": "0631-222-002"}]
+        },
+        "Muzaffarpur": {
+          "pincodes": ["842001"],
+          "offices": [{"address": "Sir Parcel Litchi, Motijheel, Muzaffarpur", "contact": "0621-224-003"}]
+        }
+      }
+    },
+    "Chandigarh": {
+      "cities": {
+        "Chandigarh": {
+          "pincodes": ["160017", "160022", "160036"],
+          "offices": [
+            {"address": "Sir Parcel City Beautiful, Sector 17, Chandigarh", "contact": "0172-270-001"},
+            {"address": "Sir Parcel IT Park, Manimajra, Chandigarh", "contact": "0172-273-002"},
+            {"address": "Sir Parcel South, Sector 35, Chandigarh", "contact": "0172-266-003"}
+          ]
+        }
+      }
+    },
+    "Chhattisgarh": {
+      "cities": {
+        "Raipur": {
+          "pincodes": ["492001"],
+          "offices": [{"address": "Sir Parcel Central, Pandri, Raipur", "contact": "0771-252-001"}]
+        },
+        "Bhilai": {
+          "pincodes": ["490001"],
+          "offices": [{"address": "Sir Parcel Steel, Civic Center, Bhilai", "contact": "0788-222-002"}]
+        },
+        "Bilaspur": {
+          "pincodes": ["495001"],
+          "offices": [{"address": "Sir Parcel Rail, Vyapar Vihar, Bilaspur", "contact": "07752-220-003"}]
+        }
+      }
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "cities": {
+        "Silvassa": {
+          "pincodes": ["396230"],
+          "offices": [{"address": "Sir Parcel Industries, Vapi Road, Silvassa", "contact": "0260-264-001"}]
+        },
+        "Daman": {
+          "pincodes": ["396210"],
+          "offices": [{"address": "Sir Parcel Coastal, Nani Daman, Daman", "contact": "0260-225-002"}]
+        },
+        "Diu": {
+          "pincodes": ["362520"],
+          "offices": [{"address": "Sir Parcel Fort, Main Bazaar, Diu", "contact": "02875-252-003"}]
+        }
+      }
+    },
+    "Goa": {
+      "cities": {
+        "Panaji": {
+          "pincodes": ["403001"],
+          "offices": [{"address": "Sir Parcel Capital, 18th June Road, Panaji", "contact": "0832-222-001"}]
+        },
+        "Margao": {
+          "pincodes": ["403601"],
+          "offices": [{"address": "Sir Parcel South, Near KTC Bus Stand, Margao", "contact": "0832-273-002"}]
+        },
+        "Vasco da Gama": {
+          "pincodes": ["403802"],
+          "offices": [{"address": "Sir Parcel Port, Swatantra Path, Vasco", "contact": "0832-251-003"}]
+        }
+      }
+    },
+    "Gujarat": {
+      "cities": {
+        "Ahmedabad": {
+          "pincodes": ["380001", "380009", "380015"],
+          "offices": [{"address": "Sir Parcel Metro, C.G. Road, Ahmedabad", "contact": "079-2640-001"}]
+        },
+        "Surat": {
+          "pincodes": ["395003", "395007"],
+          "offices": [{"address": "Sir Parcel Diamond, Ring Road, Surat", "contact": "0261-247-002"}]
+        },
+        "Vadodara": {
+          "pincodes": ["390001", "390007"],
+          "offices": [{"address": "Sir Parcel Sanskari, Alkapuri, Vadodara", "contact": "0265-233-003"}]
+        }
+      }
+    },
+    "Haryana": {
+      "cities": {
+        "Gurugram": {
+          "pincodes": ["122001", "122002"],
+          "offices": [{"address": "Sir Parcel Cyber, DLF Cyber City, Gurugram", "contact": "0124-400-001"}]
+        },
+        "Faridabad": {
+          "pincodes": ["121001"],
+          "offices": [{"address": "Sir Parcel Industrial, NIT, Faridabad", "contact": "0129-241-002"}]
+        },
+        "Panipat": {
+          "pincodes": ["132103"],
+          "offices": [{"address": "Sir Parcel Textile, GT Road, Panipat", "contact": "0180-265-003"}]
+        }
+      }
+    },
+    "Himachal Pradesh": {
+      "cities": {
+        "Shimla": {
+          "pincodes": ["171001"],
+          "offices": [{"address": "Sir Parcel Hills, The Mall, Shimla", "contact": "0177-265-001"}]
+        },
+        "Manali": {
+          "pincodes": ["175131"],
+          "offices": [{"address": "Sir Parcel Valley, Model Town, Manali", "contact": "01902-252-002"}]
+        },
+        "Dharamshala": {
+          "pincodes": ["176215"],
+          "offices": [{"address": "Sir Parcel Dhauladhar, McLeod Ganj, Dharamshala", "contact": "01892-221-003"}]
+        }
+      }
+    },
+    "Jammu and Kashmir": {
+      "cities": {
+        "Srinagar": {
+          "pincodes": ["190001"],
+          "offices": [{"address": "Sir Parcel Dal Lake, Lal Chowk, Srinagar", "contact": "0194-247-001"}]
+        },
+        "Jammu": {
+          "pincodes": ["180001"],
+          "offices": [{"address": "Sir Parcel Tawi, Raghunath Bazaar, Jammu", "contact": "0191-254-002"}]
+        },
+        "Leh": {
+          "pincodes": ["194101"],
+          "offices": [{"address": "Sir Parcel Ladakh, Main Bazaar, Leh", "contact": "01982-252-003"}]
+        }
+      }
+    },
+    "Jharkhand": {
+      "cities": {
+        "Ranchi": {
+          "pincodes": ["834001"],
+          "offices": [{"address": "Sir Parcel Falls, Main Road, Ranchi", "contact": "0651-233-001"}]
+        },
+        "Jamshedpur": {
+          "pincodes": ["831001"],
+          "offices": [{"address": "Sir Parcel Tatanagar, Bistupur, Jamshedpur", "contact": "0657-242-002"}]
+        },
+        "Dhanbad": {
+          "pincodes": ["826001"],
+          "offices": [{"address": "Sir Parcel Coal, Bank More, Dhanbad", "contact": "0326-230-003"}]
+        }
+      }
+    },
+    "Karnataka": {
+      "cities": {
+        "Bengaluru": {
+          "pincodes": ["560001", "560002", "560025", "560038", "560043", "560068", "560095", "560102", "560103"],
+          "offices": [
+            {"address": "Sir Parcel HQ, 1 MG Road, Bengaluru", "contact": "080-25580001"},
+            {"address": "Sir Parcel Hub, 2 Koramangala, Bengaluru", "contact": "080-41100002"},
+            {"address": "Sir Parcel Techpark, 3 Electronic City, Bengaluru", "contact": "080-41800003"},
+            {"address": "Sir Parcel North, 4 Hebbal, Bengaluru", "contact": "080-42100004"},
+            {"address": "Sir Parcel South, 5 Jayanagar, Bengaluru", "contact": "080-40900005"}
+          ]
+        },
+        "Mysuru": {
+          "pincodes": ["570001", "570004", "570008"],
+          "offices": [{"address": "Sir Parcel Palace, Devaraj Urs Road, Mysuru", "contact": "0821-2420001"}]
+        },
+        "Mangaluru": {
+          "pincodes": ["575001", "575002", "575003"],
+          "offices": [{"address": "Sir Parcel Port, Hampankatta, Mangaluru", "contact": "0824-2440001"}]
+        },
+        "Hubballi-Dharwad": {
+          "pincodes": ["580020", "580023", "580029"],
+          "offices": [{"address": "Sir Parcel Connect, Vidyanagar, Hubballi", "contact": "0836-2370001"}]
+        },
+        "Belagavi": {
+          "pincodes": ["590001", "590002"],
+          "offices": [{"address": "Sir Parcel Kunda, Tilakwadi, Belagavi", "contact": "0831-2420001"}]
+        }
+      }
+    },
+    "Kerala": {
+      "cities": {
+        "Thiruvananthapuram": {
+          "pincodes": ["695001", "695003", "695010"],
+          "offices": [{"address": "Sir Parcel Capital, Palayam, Trivandrum", "contact": "0471-2320001"}]
+        },
+        "Kochi": {
+          "pincodes": ["682011", "682016", "682024"],
+          "offices": [{"address": "Sir Parcel Cochin, MG Road, Ernakulam", "contact": "0484-2350001"}]
+        },
+        "Kozhikode": {
+          "pincodes": ["673001", "673004"],
+          "offices": [{"address": "Sir Parcel Calicut, Mavoor Road, Kozhikode", "contact": "0495-2720001"}]
+        }
+      }
+    },
+    "Madhya Pradesh": {
+      "cities": {
+        "Bhopal": {
+          "pincodes": ["462001", "462011"],
+          "offices": [{"address": "Sir Parcel Lakes, MP Nagar, Bhopal", "contact": "0755-255-001"}]
+        },
+        "Indore": {
+          "pincodes": ["452001", "452010"],
+          "offices": [{"address": "Sir Parcel Commercial, AB Road, Indore", "contact": "0731-251-002"}]
+        },
+        "Jabalpur": {
+          "pincodes": ["482001"],
+          "offices": [{"address": "Sir Parcel Marble, Civil Lines, Jabalpur", "contact": "0761-262-003"}]
+        }
+      }
+    },
+    "Maharashtra": {
+      "cities": {
+        "Mumbai": {
+          "pincodes": ["400001", "400011", "400050", "400071"],
+          "offices": [
+            {"address": "Sir Parcel Metro, 101 Fort, Mumbai", "contact": "022-22610001"},
+            {"address": "Sir Parcel West, 202 Bandra, Mumbai", "contact": "022-26400002"}
+          ]
+        },
+        "Pune": {
+          "pincodes": ["411001", "411004", "411007"],
+          "offices": [{"address": "Sir Parcel IT Park, 303 Hinjewadi, Pune", "contact": "020-66510001"}]
+        },
+        "Nagpur": {
+          "pincodes": ["440001", "440010"],
+          "offices": [{"address": "Sir Parcel Orange, Sitabuldi, Nagpur", "contact": "0712-252-003"}]
+        }
+      }
+    },
+    "Manipur": {
+      "cities": {
+        "Imphal": {
+          "pincodes": ["795001"],
+          "offices": [{"address": "Sir Parcel Jewel, Paona Bazaar, Imphal", "contact": "0385-244-001"}]
+        },
+        "Churachandpur": {
+          "pincodes": ["795128"],
+          "offices": [{"address": "Sir Parcel Hills, Tedim Road, Churachandpur", "contact": "03874-233-002"}]
+        },
+        "Ukhrul": {
+          "pincodes": ["795142"],
+          "offices": [{"address": "Sir Parcel Peaks, Viewland, Ukhrul", "contact": "03870-265-003"}]
+        }
+      }
+    },
+    "Meghalaya": {
+      "cities": {
+        "Shillong": {
+          "pincodes": ["793001"],
+          "offices": [{"address": "Sir Parcel Scotland, Police Bazar, Shillong", "contact": "0364-222-001"}]
+        },
+        "Tura": {
+          "pincodes": ["794001"],
+          "offices": [{"address": "Sir Parcel Garo, Super Market, Tura", "contact": "03651-222-002"}]
+        },
+        "Jowai": {
+          "pincodes": ["793150"],
+          "offices": [{"address": "Sir Parcel Jaintia, Iawmusiang, Jowai", "contact": "03652-220-003"}]
+        }
+      }
+    },
+    "Mizoram": {
+      "cities": {
+        "Aizawl": {
+          "pincodes": ["796001"],
+          "offices": [{"address": "Sir Parcel Highlands, Zarkawt, Aizawl", "contact": "0389-232-001"}]
+        },
+        "Lunglei": {
+          "pincodes": ["796701"],
+          "offices": [{"address": "Sir Parcel Bridge, Venglai, Lunglei", "contact": "0372-232-002"}]
+        },
+        "Saiha": {
+          "pincodes": ["796901"],
+          "offices": [{"address": "Sir Parcel Border, New Saiha, Saiha", "contact": "03835-226-003"}]
+        }
+      }
+    },
+    "Nagaland": {
+      "cities": {
+        "Kohima": {
+          "pincodes": ["797001"],
+          "offices": [{"address": "Sir Parcel Festival, PR Hill, Kohima", "contact": "0370-229-001"}]
+        },
+        "Dimapur": {
+          "pincodes": ["797112"],
+          "offices": [{"address": "Sir Parcel Gateway, Circular Road, Dimapur", "contact": "03862-228-002"}]
+        },
+        "Mokokchung": {
+          "pincodes": ["798601"],
+          "offices": [{"address": "Sir Parcel Ao, Main Town, Mokokchung", "contact": "0369-222-003"}]
+        }
+      }
+    },
+    "Odisha": {
+      "cities": {
+        "Bhubaneswar": {
+          "pincodes": ["751001", "751007"],
+          "offices": [{"address": "Sir Parcel Temple City, Janpath, Bhubaneswar", "contact": "0674-253-001"}]
+        },
+        "Cuttack": {
+          "pincodes": ["753001"],
+          "offices": [{"address": "Sir Parcel Silver, Buxi Bazaar, Cuttack", "contact": "0671-230-002"}]
+        },
+        "Puri": {
+          "pincodes": ["752001"],
+          "offices": [{"address": "Sir Parcel Jagannath, Grand Road, Puri", "contact": "06752-222-003"}]
+        }
+      }
+    },
+    "Punjab": {
+      "cities": {
+        "Ludhiana": {
+          "pincodes": ["141001"],
+          "offices": [{"address": "Sir Parcel Industrial, Feroze Gandhi Market, Ludhiana", "contact": "0161-240-001"}]
+        },
+        "Amritsar": {
+          "pincodes": ["143001"],
+          "offices": [{"address": "Sir Parcel Golden, Hall Bazaar, Amritsar", "contact": "0183-255-002"}]
+        },
+        "Jalandhar": {
+          "pincodes": ["144001"],
+          "offices": [{"address": "Sir Parcel Sports, Model Town, Jalandhar", "contact": "0181-222-003"}]
+        }
+      }
+    },
+    "Rajasthan": {
+      "cities": {
+        "Jaipur": {
+          "pincodes": ["302001", "302006"],
+          "offices": [{"address": "Sir Parcel Pink City, M.I. Road, Jaipur", "contact": "0141-237-001"}]
+        },
+        "Jodhpur": {
+          "pincodes": ["342001"],
+          "offices": [{"address": "Sir Parcel Sun City, Sardarpura, Jodhpur", "contact": "0291-262-002"}]
+        },
+        "Udaipur": {
+          "pincodes": ["313001"],
+          "offices": [{"address": "Sir Parcel Lakes, Chetak Circle, Udaipur", "contact": "0294-241-003"}]
+        }
+      }
+    },
+    "Sikkim": {
+      "cities": {
+        "Gangtok": {
+          "pincodes": ["737101"],
+          "offices": [{"address": "Sir Parcel Kanchenjunga, MG Marg, Gangtok", "contact": "03592-202-001"}]
+        },
+        "Pelling": {
+          "pincodes": ["737113"],
+          "offices": [{"address": "Sir Parcel West, Upper Pelling, Pelling", "contact": "03595-258-002"}]
+        },
+        "Namchi": {
+          "pincodes": ["737126"],
+          "offices": [{"address": "Sir Parcel South, Central Park, Namchi", "contact": "03595-263-003"}]
+        }
+      }
+    },
+    "Tamil Nadu": {
+      "cities": {
+        "Ariyalur": {"pincodes": ["621704"], "offices": [{"address": "Sir Parcel Ariyalur, M.G. Road, Ariyalur", "contact": "04329-222-001"}]},
+        "Chengalpattu": {"pincodes": ["603001"], "offices": [{"address": "Sir Parcel Chengalpattu, G.S.T. Road, Chengalpattu", "contact": "044-2742-001"}]},
+        "Chennai": {"pincodes": ["600001", "600017", "600086"], "offices": [{"address": "Sir Parcel Chennai Hub, Anna Salai, Chennai", "contact": "044-2852-001"}]},
+        "Coimbatore": {"pincodes": ["641001", "641018"], "offices": [{"address": "Sir Parcel Coimbatore, Gandhipuram, Coimbatore", "contact": "0422-223-001"}]},
+        "Cuddalore": {"pincodes": ["607001", "607002"], "offices": [{"address": "Sir Parcel Cuddalore, Imperial Road, Cuddalore", "contact": "04142-230-001"}]},
+        "Dharmapuri": {"pincodes": ["636701"], "offices": [{"address": "Sir Parcel Dharmapuri, Nethaji Bypass Road, Dharmapuri", "contact": "04342-260-001"}]},
+        "Dindigul": {"pincodes": ["624001"], "offices": [{"address": "Sir Parcel Dindigul, Main Road, Dindigul", "contact": "0451-243-001"}]},
+        "Erode": {"pincodes": ["638001"], "offices": [{"address": "Sir Parcel Erode, Brough Road, Erode", "contact": "0424-225-001"}]},
+        "Kallakurichi": {"pincodes": ["606202"], "offices": [{"address": "Sir Parcel Kallakurichi, Salem Main Road, Kallakurichi", "contact": "04151-222-001"}]},
+        "Kanchipuram": {"pincodes": ["631501"], "offices": [{"address": "Sir Parcel Kanchipuram, Gandhi Road, Kanchipuram", "contact": "044-2722-001"}]},
+        "Kanyakumari": {"pincodes": ["629702"], "offices": [{"address": "Sir Parcel Kanyakumari, Main Road, Nagercoil", "contact": "04652-230-001"}]},
+        "Karur": {"pincodes": ["639001"], "offices": [{"address": "Sir Parcel Karur, Kovai Road, Karur", "contact": "04324-230-001"}]},
+        "Krishnagiri": {"pincodes": ["635001"], "offices": [{"address": "Sir Parcel Krishnagiri, Bangalore Road, Krishnagiri", "contact": "04343-230-001"}]},
+        "Madurai": {"pincodes": ["625001", "625009"], "offices": [{"address": "Sir Parcel Madurai, Simmakkal, Madurai", "contact": "0452-234-001"}]},
+        "Nagapattinam": {"pincodes": ["611001"], "offices": [{"address": "Sir Parcel Nagapattinam, Neela South Street, Nagapattinam", "contact": "04365-220-001"}]},
+        "Namakkal": {"pincodes": ["637001"], "offices": [{"address": "Sir Parcel Namakkal, Salem Road, Namakkal", "contact": "04286-220-001"}]},
+        "Nilgiris": {"pincodes": ["643001"], "offices": [{"address": "Sir Parcel Nilgiris, Commercial Road, Ooty", "contact": "0423-244-001"}]},
+        "Perambalur": {"pincodes": ["621212"], "offices": [{"address": "Sir Parcel Perambalur, Trichy Main Road, Perambalur", "contact": "04328-277-001"}]},
+        "Pudukkottai": {"pincodes": ["622001"], "offices": [{"address": "Sir Parcel Pudukkottai, East Main Street, Pudukkottai", "contact": "04322-220-001"}]},
+        "Ramanathapuram": {"pincodes": ["623501"], "offices": [{"address": "Sir Parcel Ramanathapuram, Salai Street, Ramanathapuram", "contact": "04567-220-001"}]},
+        "Ranipet": {"pincodes": ["632401"], "offices": [{"address": "Sir Parcel Ranipet, M.B.T. Road, Ranipet", "contact": "04172-272-001"}]},
+        "Salem": {"pincodes": ["636001", "636007"], "offices": [{"address": "Sir Parcel Salem, Omalur Main Road, Salem", "contact": "0427-221-001"}]},
+        "Sivaganga": {"pincodes": ["630561"], "offices": [{"address": "Sir Parcel Sivaganga, North Raja Street, Sivaganga", "contact": "04575-240-001"}]},
+        "Tenkasi": {"pincodes": ["627811"], "offices": [{"address": "Sir Parcel Tenkasi, Courtallam Road, Tenkasi", "contact": "04633-220-001"}]},
+        "Thanjavur": {"pincodes": ["613001"], "offices": [{"address": "Sir Parcel Thanjavur, Gandhiji Road, Thanjavur", "contact": "04362-230-001"}]},
+        "Theni": {"pincodes": ["625531"], "offices": [{"address": "Sir Parcel Theni, Madurai Road, Theni", "contact": "04546-250-001"}]},
+        "Thoothukudi": {"pincodes": ["628001"], "offices": [{"address": "Sir Parcel Thoothukudi, W.G.C. Road, Thoothukudi", "contact": "0461-232-001"}]},
+        "Tiruchirappalli": {"pincodes": ["620001", "620008"], "offices": [{"address": "Sir Parcel Trichy, Rockins Road, Tiruchirappalli", "contact": "0431-243-001"}]},
+        "Tirunelveli": {"pincodes": ["627001"], "offices": [{"address": "Sir Parcel Tirunelveli, Trivandrum Road, Tirunelveli", "contact": "0462-233-001"}]},
+        "Tirupathur": {"pincodes": ["635601"], "offices": [{"address": "Sir Parcel Tirupathur, Vaniyambadi Road, Tirupathur", "contact": "04179-220-001"}]},
+        "Tiruppur": {"pincodes": ["641601", "641604"], "offices": [{"address": "Sir Parcel Tiruppur, Kumaran Road, Tiruppur", "contact": "0421-224-001"}]},
+        "Tiruvallur": {"pincodes": ["602001"], "offices": [{"address": "Sir Parcel Tiruvallur, J.N. Road, Tiruvallur", "contact": "044-2766-001"}]},
+        "Tiruvannamalai": {"pincodes": ["606601"], "offices": [{"address": "Sir Parcel Tiruvannamalai, Polur Road, Tiruvannamalai", "contact": "04175-220-001"}]},
+        "Tiruvarur": {"pincodes": ["610001"], "offices": [{"address": "Sir Parcel Tiruvarur, South Main Street, Tiruvarur", "contact": "04366-220-001"}]},
+        "Vellore": {"pincodes": ["632001", "632004"], "offices": [{"address": "Sir Parcel Vellore, Arcot Road, Vellore", "contact": "0416-222-001"}]},
+        "Viluppuram": {"pincodes": ["605602"], "offices": [{"address": "Sir Parcel Viluppuram, Trichy Main Road, Viluppuram", "contact": "04146-220-001"}]},
+        "Virudhunagar": {"pincodes": ["626001"], "offices": [{"address": "Sir Parcel Virudhunagar, Madurai Road, Virudhunagar", "contact": "04562-240-001"}]}
+      }
+    },
+    "Tripura": {
+      "cities": {
+        "Agartala": {
+          "pincodes": ["799001"],
+          "offices": [{"address": "Sir Parcel Capital, H.G. Basak Road, Agartala", "contact": "0381-232-001"}]
+        },
+        "Udaipur": {
+          "pincodes": ["799120"],
+          "offices": [{"address": "Sir Parcel Lakes, R.K. Pur, Udaipur", "contact": "03821-222-002"}]
+        },
+        "Dharmanagar": {
+          "pincodes": ["799250"],
+          "offices": [{"address": "Sir Parcel North, Main Road, Dharmanagar", "contact": "03822-230-003"}]
+        }
+      }
+    },
+    "Uttar Pradesh": {
+      "cities": {
+        "Lucknow": {
+          "pincodes": ["226001"],
+          "offices": [{"address": "Sir Parcel Nawabs, Hazratganj, Lucknow", "contact": "0522-261-001"}]
+        },
+        "Kanpur": {
+          "pincodes": ["208001"],
+          "offices": [{"address": "Sir Parcel Leather, The Mall, Kanpur", "contact": "0512-230-002"}]
+        },
+        "Agra": {
+          "pincodes": ["282001"],
+          "offices": [{"address": "Sir Parcel Taj, Fatehabad Road, Agra", "contact": "0562-233-003"}]
+        }
+      }
+    },
+    "Uttarakhand": {
+      "cities": {
+        "Dehradun": {
+          "pincodes": ["248001"],
+          "offices": [{"address": "Sir Parcel Doon, Rajpur Road, Dehradun", "contact": "0135-265-001"}]
+        },
+        "Haridwar": {
+          "pincodes": ["249401"],
+          "offices": [{"address": "Sir Parcel Ganges, Har Ki Pauri, Haridwar", "contact": "01334-222-002"}]
+        },
+        "Nainital": {
+          "pincodes": ["263001"],
+          "offices": [{"address": "Sir Parcel Lakes, Mall Road, Nainital", "contact": "05942-235-003"}]
+        }
+      }
+    },
+    "West Bengal": {
+      "cities": {
+        "Kolkata": {
+          "pincodes": ["700001", "700012", "700071"],
+          "offices": [{"address": "Sir Parcel Joy, Park Street, Kolkata", "contact": "033-2229-001"}]
+        },
+        "Darjeeling": {
+          "pincodes": ["734101"],
+          "offices": [{"address": "Sir Parcel Tea Hills, Chowrasta, Darjeeling", "contact": "0354-225-002"}]
+        },
+        "Siliguri": {
+          "pincodes": ["734001"],
+          "offices": [{"address": "Sir Parcel Gateway, Hill Cart Road, Siliguri", "contact": "0353-252-003"}]
+        }
+      }
+    }
+  }
+  

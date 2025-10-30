@@ -1,0 +1,432 @@
+{
+    "Agra": {
+      "Mumbai": { "base_rate": 130, "rate_per_kg": 28 },
+      "Delhi": { "base_rate": 40, "rate_per_kg": 12 },
+      "Bengaluru": { "base_rate": 160, "rate_per_kg": 35 },
+      "Kolkata": { "base_rate": 140, "rate_per_kg": 30 },
+      "Lucknow": { "base_rate": 50, "rate_per_kg": 15 }
+    },
+    "Ahmedabad": {
+      "Mumbai": { "base_rate": 60, "rate_per_kg": 18 },
+      "Delhi": { "base_rate": 100, "rate_per_kg": 25 },
+      "Bengaluru": { "base_rate": 150, "rate_per_kg": 32 },
+      "Jaipur": { "base_rate": 70, "rate_per_kg": 20 },
+      "Surat": { "base_rate": 40, "rate_per_kg": 12 }
+    },
+    "Amritsar": {
+      "Delhi": { "base_rate": 50, "rate_per_kg": 15 },
+      "Mumbai": { "base_rate": 160, "rate_per_kg": 35 },
+      "Chandigarh": { "base_rate": 40, "rate_per_kg": 12 },
+      "Ludhiana": { "base_rate": 30, "rate_per_kg": 10 },
+      "Jalandhar": { "base_rate": 35, "rate_per_kg": 11 }
+    },
+    "Ariyalur": {
+      "Chennai": { "base_rate": 45, "rate_per_kg": 14 },
+      "Bengaluru": { "base_rate": 55, "rate_per_kg": 16 },
+      "Coimbatore": { "base_rate": 40, "rate_per_kg": 12 },
+      "Madurai": { "base_rate": 35, "rate_per_kg": 11 },
+      "Tiruchirappalli": { "base_rate": 25, "rate_per_kg": 8 }
+    },
+    "Asansol": {
+        "Kolkata": { "base_rate": 40, "rate_per_kg": 12 },
+        "Durgapur": { "base_rate": 20, "rate_per_kg": 7 },
+        "Patna": { "base_rate": 60, "rate_per_kg": 18 },
+        "Ranchi": { "base_rate": 50, "rate_per_kg": 15 },
+        "Delhi": { "base_rate": 150, "rate_per_kg": 34 }
+    },
+    "Bengaluru": {
+      "Mumbai": { "base_rate": 110, "rate_per_kg": 26 },
+      "Delhi": { "base_rate": 180, "rate_per_kg": 40 },
+      "Kolkata": { "base_rate": 190, "rate_per_kg": 42 },
+      "Hyderabad": { "base_rate": 70, "rate_per_kg": 20 },
+      "Chennai": { "base_rate": 45, "rate_per_kg": 14 },
+      "Coimbatore": { "base_rate": 50, "rate_per_kg": 15 },
+      "Madurai": { "base_rate": 60, "rate_per_kg": 18 },
+      "Tiruchirappalli": { "base_rate": 55, "rate_per_kg": 16 },
+      "Salem": { "base_rate": 40, "rate_per_kg": 12 },
+      "Vellore": { "base_rate": 40, "rate_per_kg": 12 }
+    },
+    "Bhopal": {
+      "Mumbai": { "base_rate": 90, "rate_per_kg": 22 },
+      "Delhi": { "base_rate": 80, "rate_per_kg": 20 },
+      "Nagpur": { "base_rate": 50, "rate_per_kg": 15 },
+      "Indore": { "base_rate": 40, "rate_per_kg": 12 },
+      "Jabalpur": { "base_rate": 55, "rate_per_kg": 16 }
+    },
+    "Bhubaneswar": {
+      "Kolkata": { "base_rate": 60, "rate_per_kg": 18 },
+      "Hyderabad": { "base_rate": 120, "rate_per_kg": 28 },
+      "Chennai": { "base_rate": 140, "rate_per_kg": 30 },
+      "Bengaluru": { "base_rate": 150, "rate_per_kg": 33 },
+      "Cuttack": { "base_rate": 20, "rate_per_kg": 7 }
+    },
+    "Chandigarh": {
+      "Delhi": { "base_rate": 40, "rate_per_kg": 12 },
+      "Shimla": { "base_rate": 30, "rate_per_kg": 10 },
+      "Jaipur": { "base_rate": 60, "rate_per_kg": 18 },
+      "Amritsar": { "base_rate": 40, "rate_per_kg": 12 },
+      "Ludhiana": { "base_rate": 30, "rate_per_kg": 10 }
+    },
+    "Chengalpattu": {
+      "Chennai": { "base_rate": 25, "rate_per_kg": 8 },
+      "Bengaluru": { "base_rate": 50, "rate_per_kg": 15 },
+      "Coimbatore": { "base_rate": 75, "rate_per_kg": 20 },
+      "Madurai": { "base_rate": 65, "rate_per_kg": 19 },
+      "Vellore": { "base_rate": 35, "rate_per_kg": 11 }
+    },
+    "Chennai": {
+      "Bengaluru": { "base_rate": 45, "rate_per_kg": 14 },
+      "Hyderabad": { "base_rate": 80, "rate_per_kg": 20 },
+      "Mumbai": { "base_rate": 140, "rate_per_kg": 30 },
+      "Kolkata": { "base_rate": 170, "rate_per_kg": 38 },
+      "Delhi": { "base_rate": 190, "rate_per_kg": 42 },
+      "Coimbatore": { "base_rate": 70, "rate_per_kg": 19 },
+      "Madurai": { "base_rate": 60, "rate_per_kg": 18 },
+      "Tiruchirappalli": { "base_rate": 50, "rate_per_kg": 15 },
+      "Salem": { "base_rate": 55, "rate_per_kg": 16 },
+      "Vellore": { "base_rate": 35, "rate_per_kg": 11 }
+    },
+    "Coimbatore": {
+      "Chennai": { "base_rate": 70, "rate_per_kg": 19 },
+      "Bengaluru": { "base_rate": 50, "rate_per_kg": 15 },
+      "Kochi": { "base_rate": 40, "rate_per_kg": 12 },
+      "Madurai": { "base_rate": 45, "rate_per_kg": 14 },
+      "Tiruchirappalli": { "base_rate": 40, "rate_per_kg": 12 },
+      "Salem": { "base_rate": 35, "rate_per_kg": 11 },
+      "Hyderabad": { "base_rate": 110, "rate_per_kg": 26 }
+    },
+    "Cuddalore": {
+      "Chennai": { "base_rate": 40, "rate_per_kg": 12 },
+      "Bengaluru": { "base_rate": 60, "rate_per_kg": 18 },
+      "Puducherry": { "base_rate": 20, "rate_per_kg": 7 },
+      "Madurai": { "base_rate": 50, "rate_per_kg": 15 },
+      "Coimbatore": { "base_rate": 65, "rate_per_kg": 19 }
+    },
+    "Dehradun": {
+      "Delhi": { "base_rate": 45, "rate_per_kg": 14 },
+      "Chandigarh": { "base_rate": 40, "rate_per_kg": 12 },
+      "Haridwar": { "base_rate": 25, "rate_per_kg": 8 },
+      "Rishikesh": { "base_rate": 20, "rate_per_kg": 7 },
+      "Nainital": { "base_rate": 50, "rate_per_kg": 15 }
+    },
+    "Delhi": {
+      "Mumbai": { "base_rate": 150, "rate_per_kg": 32 },
+      "Bengaluru": { "base_rate": 180, "rate_per_kg": 40 },
+      "Chennai": { "base_rate": 190, "rate_per_kg": 42 },
+      "Kolkata": { "base_rate": 160, "rate_per_kg": 35 },
+      "Jaipur": { "base_rate": 40, "rate_per_kg": 12 }
+    },
+    "Dharmapuri": {
+      "Bengaluru": { "base_rate": 30, "rate_per_kg": 10 },
+      "Chennai": { "base_rate": 50, "rate_per_kg": 15 },
+      "Salem": { "base_rate": 25, "rate_per_kg": 8 },
+      "Coimbatore": { "base_rate": 40, "rate_per_kg": 12 },
+      "Vellore": { "base_rate": 35, "rate_per_kg": 11 }
+    },
+    "Dindigul": {
+      "Madurai": { "base_rate": 25, "rate_per_kg": 8 },
+      "Coimbatore": { "base_rate": 35, "rate_per_kg": 11 },
+      "Chennai": { "base_rate": 65, "rate_per_kg": 19 },
+      "Bengaluru": { "base_rate": 70, "rate_per_kg": 20 },
+      "Tiruchirappalli": { "base_rate": 30, "rate_per_kg": 10 }
+    },
+    "Erode": {
+      "Coimbatore": { "base_rate": 30, "rate_per_kg": 10 },
+      "Salem": { "base_rate": 25, "rate_per_kg": 8 },
+      "Bengaluru": { "base_rate": 45, "rate_per_kg": 14 },
+      "Chennai": { "base_rate": 60, "rate_per_kg": 18 },
+      "Madurai": { "base_rate": 50, "rate_per_kg": 15 }
+    },
+    "Guwahati": {
+      "Kolkata": { "base_rate": 120, "rate_per_kg": 30 },
+      "Delhi": { "base_rate": 220, "rate_per_kg": 50 },
+      "Shillong": { "base_rate": 30, "rate_per_kg": 10 },
+      "Dibrugarh": { "base_rate": 60, "rate_per_kg": 18 },
+      "Silchar": { "base_rate": 50, "rate_per_kg": 15 }
+    },
+    "Hyderabad": {
+      "Bengaluru": { "base_rate": 70, "rate_per_kg": 20 },
+      "Mumbai": { "base_rate": 90, "rate_per_kg": 22 },
+      "Chennai": { "base_rate": 80, "rate_per_kg": 20 },
+      "Pune": { "base_rate": 70, "rate_per_kg": 20 },
+      "Visakhapatnam": { "base_rate": 80, "rate_per_kg": 20 }
+    },
+    "Indore": {
+      "Mumbai": { "base_rate": 70, "rate_per_kg": 20 },
+      "Bhopal": { "base_rate": 40, "rate_per_kg": 12 },
+      "Ahmedabad": { "base_rate": 50, "rate_per_kg": 15 },
+      "Nagpur": { "base_rate": 60, "rate_per_kg": 18 },
+      "Ujjain": { "base_rate": 25, "rate_per_kg": 8 }
+    },
+    "Jaipur": {
+      "Delhi": { "base_rate": 40, "rate_per_kg": 12 },
+      "Mumbai": { "base_rate": 120, "rate_per_kg": 28 },
+      "Ahmedabad": { "base_rate": 70, "rate_per_kg": 20 },
+      "Jodhpur": { "base_rate": 50, "rate_per_kg": 15 },
+      "Kota": { "base_rate": 45, "rate_per_kg": 14 }
+    },
+    "Kallakurichi": {
+      "Chennai": { "base_rate": 45, "rate_per_kg": 14 },
+      "Salem": { "base_rate": 30, "rate_per_kg": 10 },
+      "Tiruchirappalli": { "base_rate": 35, "rate_per_kg": 11 },
+      "Bengaluru": { "base_rate": 55, "rate_per_kg": 16 },
+      "Puducherry": { "base_rate": 30, "rate_per_kg": 10 }
+    },
+    "Kanchipuram": {
+      "Chennai": { "base_rate": 30, "rate_per_kg": 10 },
+      "Bengaluru": { "base_rate": 45, "rate_per_kg": 14 },
+      "Vellore": { "base_rate": 25, "rate_per_kg": 8 },
+      "Coimbatore": { "base_rate": 70, "rate_per_kg": 20 },
+      "Madurai": { "base_rate": 60, "rate_per_kg": 18 }
+    },
+    "Kanyakumari": {
+      "Thiruvananthapuram": { "base_rate": 30, "rate_per_kg": 10 },
+      "Madurai": { "base_rate": 40, "rate_per_kg": 12 },
+      "Chennai": { "base_rate": 80, "rate_per_kg": 22 },
+      "Coimbatore": { "base_rate": 70, "rate_per_kg": 20 },
+      "Bengaluru": { "base_rate": 90, "rate_per_kg": 24 }
+    },
+    "Karur": {
+      "Coimbatore": { "base_rate": 35, "rate_per_kg": 11 },
+      "Tiruchirappalli": { "base_rate": 25, "rate_per_kg": 8 },
+      "Madurai": { "base_rate": 30, "rate_per_kg": 10 },
+      "Salem": { "base_rate": 30, "rate_per_kg": 10 },
+      "Chennai": { "base_rate": 65, "rate_per_kg": 19 }
+    },
+    "Kochi": {
+      "Bengaluru": { "base_rate": 70, "rate_per_kg": 20 },
+      "Chennai": { "base_rate": 90, "rate_per_kg": 22 },
+      "Coimbatore": { "base_rate": 40, "rate_per_kg": 12 },
+      "Thiruvananthapuram": { "base_rate": 40, "rate_per_kg": 12 },
+      "Kozhikode": { "base_rate": 35, "rate_per_kg": 11 }
+    },
+    "Kolkata": {
+      "Delhi": { "base_rate": 160, "rate_per_kg": 35 },
+      "Mumbai": { "base_rate": 200, "rate_per_kg": 45 },
+      "Bengaluru": { "base_rate": 190, "rate_per_kg": 42 },
+      "Chennai": { "base_rate": 170, "rate_per_kg": 38 },
+      "Guwahati": { "base_rate": 120, "rate_per_kg": 30 },
+      "Bhubaneswar": { "base_rate": 60, "rate_per_kg": 18 },
+      "Patna": { "base_rate": 80, "rate_per_kg": 20 },
+      "Asansol": { "base_rate": 40, "rate_per_kg": 12 },
+      "Siliguri": { "base_rate": 90, "rate_per_kg": 22 }
+    },
+    "Krishnagiri": {
+      "Bengaluru": { "base_rate": 25, "rate_per_kg": 8 },
+      "Chennai": { "base_rate": 45, "rate_per_kg": 14 },
+      "Salem": { "base_rate": 30, "rate_per_kg": 10 },
+      "Vellore": { "base_rate": 30, "rate_per_kg": 10 },
+      "Dharmapuri": { "base_rate": 20, "rate_per_kg": 7 }
+    },
+    "Lucknow": {
+      "Delhi": { "base_rate": 60, "rate_per_kg": 18 },
+      "Kanpur": { "base_rate": 30, "rate_per_kg": 10 },
+      "Varanasi": { "base_rate": 50, "rate_per_kg": 15 },
+      "Agra": { "base_rate": 50, "rate_per_kg": 15 },
+      "Allahabad": { "base_rate": 40, "rate_per_kg": 12 }
+    },
+    "Madurai": {
+      "Chennai": { "base_rate": 60, "rate_per_kg": 18 },
+      "Bengaluru": { "base_rate": 70, "rate_per_kg": 20 },
+      "Coimbatore": { "base_rate": 45, "rate_per_kg": 14 },
+      "Tiruchirappalli": { "base_rate": 30, "rate_per_kg": 10 },
+      "Thoothukudi": { "base_rate": 35, "rate_per_kg": 11 }
+    },
+    "Mayiladuthurai": {
+      "Chennai": { "base_rate": 50, "rate_per_kg": 15 },
+      "Tiruchirappalli": { "base_rate": 35, "rate_per_kg": 11 },
+      "Puducherry": { "base_rate": 30, "rate_per_kg": 10 },
+      "Thanjavur": { "base_rate": 25, "rate_per_kg": 8 },
+      "Coimbatore": { "base_rate": 70, "rate_per_kg": 20 }
+    },
+    "Mumbai": {
+      "Delhi": { "base_rate": 150, "rate_per_kg": 32 },
+      "Bengaluru": { "base_rate": 110, "rate_per_kg": 26 },
+      "Kolkata": { "base_rate": 200, "rate_per_kg": 45 },
+      "Chennai": { "base_rate": 140, "rate_per_kg": 30 },
+      "Pune": { "base_rate": 40, "rate_per_kg": 12 }
+    },
+    "Nagapattinam": {
+      "Chennai": { "base_rate": 55, "rate_per_kg": 16 },
+      "Tiruchirappalli": { "base_rate": 40, "rate_per_kg": 12 },
+      "Madurai": { "base_rate": 45, "rate_per_kg": 14 },
+      "Coimbatore": { "base_rate": 75, "rate_per_kg": 21 },
+      "Puducherry": { "base_rate": 35, "rate_per_kg": 11 }
+    },
+    "Namakkal": {
+      "Salem": { "base_rate": 25, "rate_per_kg": 8 },
+      "Coimbatore": { "base_rate": 35, "rate_per_kg": 11 },
+      "Erode": { "base_rate": 20, "rate_per_kg": 7 },
+      "Tiruchirappalli": { "base_rate": 30, "rate_per_kg": 10 },
+      "Chennai": { "base_rate": 60, "rate_per_kg": 18 }
+    },
+    "Nilgiris": {
+      "Coimbatore": { "base_rate": 30, "rate_per_kg": 10 },
+      "Bengaluru": { "base_rate": 60, "rate_per_kg": 18 },
+      "Chennai": { "base_rate": 80, "rate_per_kg": 22 },
+      "Kochi": { "base_rate": 50, "rate_per_kg": 15 },
+      "Mysuru": { "base_rate": 40, "rate_per_kg": 12 }
+    },
+    "Patna": {
+      "Kolkata": { "base_rate": 80, "rate_per_kg": 20 },
+      "Delhi": { "base_rate": 120, "rate_per_kg": 28 },
+      "Lucknow": { "base_rate": 70, "rate_per_kg": 20 },
+      "Ranchi": { "base_rate": 50, "rate_per_kg": 15 },
+      "Gaya": { "base_rate": 30, "rate_per_kg": 10 }
+    },
+    "Perambalur": {
+      "Tiruchirappalli": { "base_rate": 25, "rate_per_kg": 8 },
+      "Chennai": { "base_rate": 50, "rate_per_kg": 15 },
+      "Salem": { "base_rate": 30, "rate_per_kg": 10 },
+      "Coimbatore": { "base_rate": 55, "rate_per_kg": 16 },
+      "Madurai": { "base_rate": 40, "rate_per_kg": 12 }
+    },
+    "Pudukkottai": {
+      "Tiruchirappalli": { "base_rate": 25, "rate_per_kg": 8 },
+      "Madurai": { "base_rate": 30, "rate_per_kg": 10 },
+      "Thanjavur": { "base_rate": 20, "rate_per_kg": 7 },
+      "Chennai": { "base_rate": 60, "rate_per_kg": 18 },
+      "Coimbatore": { "base_rate": 50, "rate_per_kg": 15 }
+    },
+    "Pune": {
+      "Mumbai": { "base_rate": 40, "rate_per_kg": 12 },
+      "Bengaluru": { "base_rate": 100, "rate_per_kg": 25 },
+      "Hyderabad": { "base_rate": 70, "rate_per_kg": 20 },
+      "Chennai": { "base_rate": 130, "rate_per_kg": 28 },
+      "Nagpur": { "base_rate": 90, "rate_per_kg": 22 }
+    },
+    "Ramanathapuram": {
+      "Madurai": { "base_rate": 30, "rate_per_kg": 10 },
+      "Thoothukudi": { "base_rate": 25, "rate_per_kg": 8 },
+      "Tiruchirappalli": { "base_rate": 40, "rate_per_kg": 12 },
+      "Chennai": { "base_rate": 70, "rate_per_kg": 20 },
+      "Coimbatore": { "base_rate": 60, "rate_per_kg": 18 }
+    },
+    "Ranipet": {
+      "Vellore": { "base_rate": 20, "rate_per_kg": 7 },
+      "Chennai": { "base_rate": 35, "rate_per_kg": 11 },
+      "Bengaluru": { "base_rate": 40, "rate_per_kg": 12 },
+      "Kanchipuram": { "base_rate": 25, "rate_per_kg": 8 },
+      "Tirupati": { "base_rate": 30, "rate_per_kg": 10 }
+    },
+    "Salem": {
+      "Chennai": { "base_rate": 55, "rate_per_kg": 16 },
+      "Bengaluru": { "base_rate": 40, "rate_per_kg": 12 },
+      "Coimbatore": { "base_rate": 35, "rate_per_kg": 11 },
+      "Madurai": { "base_rate": 45, "rate_per_kg": 14 },
+      "Tiruchirappalli": { "base_rate": 30, "rate_per_kg": 10 }
+    },
+    "Sivaganga": {
+      "Madurai": { "base_rate": 25, "rate_per_kg": 8 },
+      "Tiruchirappalli": { "base_rate": 30, "rate_per_kg": 10 },
+      "Pudukkottai": { "base_rate": 20, "rate_per_kg": 7 },
+      "Chennai": { "base_rate": 65, "rate_per_kg": 19 },
+      "Coimbatore": { "base_rate": 55, "rate_per_kg": 16 }
+    },
+    "Tenkasi": {
+      "Tirunelveli": { "base_rate": 25, "rate_per_kg": 8 },
+      "Madurai": { "base_rate": 35, "rate_per_kg": 11 },
+      "Thiruvananthapuram": { "base_rate": 40, "rate_per_kg": 12 },
+      "Coimbatore": { "base_rate": 60, "rate_per_kg": 18 },
+      "Chennai": { "base_rate": 75, "rate_per_kg": 21 }
+    },
+    "Thanjavur": {
+      "Tiruchirappalli": { "base_rate": 25, "rate_per_kg": 8 },
+      "Chennai": { "base_rate": 55, "rate_per_kg": 16 },
+      "Madurai": { "base_rate": 40, "rate_per_kg": 12 },
+      "Coimbatore": { "base_rate": 60, "rate_per_kg": 18 },
+      "Nagapattinam": { "base_rate": 30, "rate_per_kg": 10 }
+    },
+    "Theni": {
+      "Madurai": { "base_rate": 25, "rate_per_kg": 8 },
+      "Dindigul": { "base_rate": 20, "rate_per_kg": 7 },
+      "Coimbatore": { "base_rate": 45, "rate_per_kg": 14 },
+      "Kochi": { "base_rate": 50, "rate_per_kg": 15 },
+      "Chennai": { "base_rate": 70, "rate_per_kg": 20 }
+    },
+    "Thoothukudi": {
+      "Madurai": { "base_rate": 35, "rate_per_kg": 11 },
+      "Tirunelveli": { "base_rate": 20, "rate_per_kg": 7 },
+      "Chennai": { "base_rate": 70, "rate_per_kg": 20 },
+      "Coimbatore": { "base_rate": 60, "rate_per_kg": 18 },
+      "Bengaluru": { "base_rate": 80, "rate_per_kg": 22 }
+    },
+    "Tiruchirappalli": {
+      "Chennai": { "base_rate": 50, "rate_per_kg": 15 },
+      "Bengaluru": { "base_rate": 55, "rate_per_kg": 16 },
+      "Madurai": { "base_rate": 30, "rate_per_kg": 10 },
+      "Coimbatore": { "base_rate": 40, "rate_per_kg": 12 },
+      "Salem": { "base_rate": 30, "rate_per_kg": 10 }
+    },
+    "Tirunelveli": {
+      "Madurai": { "base_rate": 35, "rate_per_kg": 11 },
+      "Thoothukudi": { "base_rate": 20, "rate_per_kg": 7 },
+      "Kanyakumari": { "base_rate": 30, "rate_per_kg": 10 },
+      "Chennai": { "base_rate": 75, "rate_per_kg": 21 },
+      "Coimbatore": { "base_rate": 65, "rate_per_kg": 19 }
+    },
+    "Tirupathur": {
+      "Vellore": { "base_rate": 25, "rate_per_kg": 8 },
+      "Bengaluru": { "base_rate": 35, "rate_per_kg": 11 },
+      "Chennai": { "base_rate": 45, "rate_per_kg": 14 },
+      "Salem": { "base_rate": 30, "rate_per_kg": 10 },
+      "Krishnagiri": { "base_rate": 20, "rate_per_kg": 7 }
+    },
+    "Tiruppur": {
+      "Coimbatore": { "base_rate": 25, "rate_per_kg": 8 },
+      "Erode": { "base_rate": 20, "rate_per_kg": 7 },
+      "Bengaluru": { "base_rate": 50, "rate_per_kg": 15 },
+      "Chennai": { "base_rate": 65, "rate_per_kg": 19 },
+      "Madurai": { "base_rate": 45, "rate_per_kg": 14 }
+    },
+    "Tiruvallur": {
+      "Chennai": { "base_rate": 20, "rate_per_kg": 7 },
+      "Kanchipuram": { "base_rate": 25, "rate_per_kg": 8 },
+      "Vellore": { "base_rate": 35, "rate_per_kg": 11 },
+      "Bengaluru": { "base_rate": 55, "rate_per_kg": 16 },
+      "Tirupati": { "base_rate": 30, "rate_per_kg": 10 }
+    },
+    "Tiruvannamalai": {
+      "Chennai": { "base_rate": 40, "rate_per_kg": 12 },
+      "Vellore": { "base_rate": 30, "rate_per_kg": 10 },
+      "Bengaluru": { "base_rate": 45, "rate_per_kg": 14 },
+      "Puducherry": { "base_rate": 35, "rate_per_kg": 11 },
+      "Salem": { "base_rate": 35, "rate_per_kg": 11 }
+    },
+    "Tiruvarur": {
+      "Thanjavur": { "base_rate": 25, "rate_per_kg": 8 },
+      "Nagapattinam": { "base_rate": 20, "rate_per_kg": 7 },
+      "Tiruchirappalli": { "base_rate": 30, "rate_per_kg": 10 },
+      "Chennai": { "base_rate": 60, "rate_per_kg": 18 },
+      "Madurai": { "base_rate": 45, "rate_per_kg": 14 }
+    },
+    "Vellore": {
+      "Chennai": { "base_rate": 35, "rate_per_kg": 11 },
+      "Bengaluru": { "base_rate": 40, "rate_per_kg": 12 },
+      "Hyderabad": { "base_rate": 90, "rate_per_kg": 23 },
+      "Ranipet": { "base_rate": 20, "rate_per_kg": 7 },
+      "Kanchipuram": { "base_rate": 25, "rate_per_kg": 8 }
+    },
+    "Viluppuram": {
+      "Chennai": { "base_rate": 40, "rate_per_kg": 12 },
+      "Puducherry": { "base_rate": 20, "rate_per_kg": 7 },
+      "Tiruchirappalli": { "base_rate": 35, "rate_per_kg": 11 },
+      "Salem": { "base_rate": 40, "rate_per_kg": 12 },
+      "Bengaluru": { "base_rate": 50, "rate_per_kg": 15 }
+    },
+    "Virudhunagar": {
+      "Madurai": { "base_rate": 25, "rate_per_kg": 8 },
+      "Thoothukudi": { "base_rate": 30, "rate_per_kg": 10 },
+      "Tirunelveli": { "base_rate": 35, "rate_per_kg": 11 },
+      "Coimbatore": { "base_rate": 50, "rate_per_kg": 15 },
+      "Chennai": { "base_rate": 65, "rate_per_kg": 19 }
+    },
+    "Visakhapatnam": {
+      "Hyderabad": { "base_rate": 80, "rate_per_kg": 20 },
+      "Chennai": { "base_rate": 100, "rate_per_kg": 25 },
+      "Bhubaneswar": { "base_rate": 60, "rate_per_kg": 18 },
+      "Kolkata": { "base_rate": 110, "rate_per_kg": 26 },
+      "Vijayawada": { "base_rate": 50, "rate_per_kg": 15 }
+    }
+  }
+  
